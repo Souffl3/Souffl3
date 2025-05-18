@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there , I'm Raghu 👋
+I'm a passionate programmer who blends code with imagination. I love building unique, interactive, and meaningful digital experiences. I’m all about merging logic with creativity.
 
-<!--
-**Souffl3/Souffl3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm Into
+💻 Programming Logic – Python and a bit of everything else
+
+🚀 Creative coding – Visualizations and Game development
+
+🛠️ Build tools – Custom apps and scripts to solve my problems
+
+
+## 📫 Let's Connect
+Feel free to reach out or follow me:
+
+LinkedIn - https://www.linkedin.com/in/raghunandan-batny-a10481230/
